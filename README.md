@@ -18,13 +18,13 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
   2. 
 
 - Nutapol Thungpao
-  *
-  *
+  1.
+  2.
   
 - Praewphan Tocharoenkul
-  *
-  *
+  1.
+  2.
   
 - Suphawich Sungkhavorn
-  *
-  *
+  1.
+  2.

@@ -14,7 +14,7 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
 
 ### Additional background reading done:
 - Anuj Gupta - 122561
-  
+  * https://www.sciencedirect.com/science/article/pii/S1319157816300714
 - Nutapol Thungpao - 122148
 
   -

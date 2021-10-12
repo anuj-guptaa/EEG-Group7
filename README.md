@@ -10,5 +10,5 @@ Suphawich Sungkhavorn - 122564
 ## Preliminary Dataset Chosen:
 1-Dimensional https://sites.google.com/site/projectbci/
 ## Literature Review:
-
+Research done on same dataset - https://www.sciencedirect.com/science/article/pii/S1319157816300714
 

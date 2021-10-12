@@ -1,2 +1,6 @@
 # EEG-Group7
-EEG
+Contributers:
+Anuj Gupta - 122561
+Nutapol Thungpao - 
+Praewphan Tocharoenkul
+Suphawich 

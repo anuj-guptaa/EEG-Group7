@@ -8,7 +8,6 @@ Nutapol Thungpao - 122148
 
 Praewphan Tocharoenkul - 122497
 
-
 Suphawich Sungkhavorn - 122564
 
 
@@ -17,4 +16,6 @@ Suphawich Sungkhavorn - 122564
 
 1-Dimensional https://sites.google.com/site/projectbci/
 
-## Literature Review
+## Literature Review:
+
+

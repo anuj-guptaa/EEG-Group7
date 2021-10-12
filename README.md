@@ -14,17 +14,17 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
 
 ### Additional background reading done:
 - Anuj Gupta 
-  1. https://www.sciencedirect.com/science/article/pii/S1319157816300714
+  1. TEST
   2. 
 
 - Nutapol Thungpao
-  1.
-  2.
+  1. test 
+  2. 
   
 - Praewphan Tocharoenkul
-  1.
-  2.
+  1. 
+  2. 
   
 - Suphawich Sungkhavorn
-  1.
-  2.
+  1. 
+  2. test

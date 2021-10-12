@@ -16,11 +16,15 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
 - Anuj Gupta 
   * https://www.sciencedirect.com/science/article/pii/S1319157816300714
   * 
+
 - Nutapol Thungpao
   *
   *
   
-Praewphan Tocharoenkul - 122497
-
-Suphawich Sungkhavorn - 122564
-
+- Praewphan Tocharoenkul
+  *
+  *
+  
+- Suphawich Sungkhavorn
+  *
+  *

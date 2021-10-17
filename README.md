@@ -9,6 +9,8 @@ Praewphan Tocharoenkul - 122497
 Suphawich Sungkhavorn - 122564
 ## Preliminary Dataset Chosen:
 Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
+## NEXT STEPS:
+Read the research paper below as well as 2 papers each on the subject of motor imagery through EEG.
 ## Literature Review:
 Research done on same dataset - https://www.sciencedirect.com/science/article/pii/S1319157816300714
 

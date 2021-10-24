@@ -24,8 +24,8 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
   2. 
   
 - Praewphan Tocharoenkul
-  1. Paper - 
-  2. 
+  1. Paper - https://ieeexplore.ieee.org/document/5952111?fbclid=IwAR0wHq2DYeYiS0zyvJPbO3yEjzBai7LGSrXiyEr8IGuSjRXdnkUE9C9qbC0
+  2. Paper - 
   
 - Suphawich Sungkhavorn
   1. Paper - 

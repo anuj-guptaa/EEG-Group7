@@ -20,8 +20,8 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
   2. Paper - 
 
 - Nutapol Thungpao
-  1. Paper -  
-  2. 
+  1. Paper - https://www.sciencedirect.com/science/article/abs/pii/S1746809420303116?casa_token=4kwjtKWvVkUAAAAA%3A7ZCDUhCzsG3NDELt7vzdbTmUrL2SMFUqp2NLPjDhyaKaHTXJrGlBaenTJ4qsrkN86Jb7SlwXLw&fbclid=IwAR3-52hdWhLbLT4aicpJ_DTV7ZSGdBk0yPJ0mlmk_RnPrZAumzndy1jkZ3k
+  2. Book - Data-Driven Science and Engineering (Steven L. Brunton, J. Nathan Kutz)
   
 - Praewphan Tocharoenkul
   1. Paper - https://ieeexplore.ieee.org/document/5952111?fbclid=IwAR0wHq2DYeYiS0zyvJPbO3yEjzBai7LGSrXiyEr8IGuSjRXdnkUE9C9qbC0

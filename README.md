@@ -28,5 +28,5 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
   2. Paper - 
   
 - Suphawich Sungkhavorn
-  1. Paper - 
-  2. 
+  1. Paper - https://www.sciencedirect.com/science/article/pii/S1319157816300714?fbclid=IwAR1p35mBrWXlexk__kit2liY04cOIPAlOAYqE3eOIVXPWx4MCV2-L0mGoPA
+  2. Paper - 

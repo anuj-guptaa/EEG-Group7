@@ -10,7 +10,7 @@ Suphawich Sungkhavorn - 122564
 ## Preliminary Dataset Chosen:
 Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
 ## NEXT STEPS:
-Analyze raw dataset and perform preprocessing.
+Analyze raw dataset and perform preprocessing - mainly with respect to artefact removal and fourier transform into time domain. (Eye was closed and power band line seems to have already been removed.
 ## Literature Review:
 Research done on same dataset - https://www.sciencedirect.com/science/article/pii/S1319157816300714
 

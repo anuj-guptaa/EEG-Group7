@@ -9,15 +9,19 @@ Praewphan Tocharoenkul - 122497
 Suphawich Sungkhavorn - 122564
 ## Preliminary Dataset Chosen:
 Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
+## Progress - October 31, 2021
+- Dataset has been chosen
+- Group members have read at least 2 papers (Prasant Kumar Pattnaik, Jay Sarraf, Brain Computer Interface issues on hand movement + 2 more papers each)
+- Chosen dataset has been explored and coverted from .mat to .csv format by Nutapol
 ## NEXT STEPS:
-Analyze raw dataset and perform preprocessing - mainly with respect to artefact removal and fourier transform into time domain. (Eye was closed)
+Perform preprocessing - mainly with respect to artefact removal and fourier transform into time domain. (Eye was closed)
 ## Literature Review:
 Research done on same dataset - https://www.sciencedirect.com/science/article/pii/S1319157816300714
 
 ### Additional background reading done:
 - Anuj Gupta 
   1. Paper - https://www.frontiersin.org/articles/10.3389/fnins.2021.655599/full
-  2. Paper - 
+  2. Paper - https://core.ac.uk/download/pdf/53189287.pdf
 
 - Nutapol Thungpao
   1. Paper - https://www.sciencedirect.com/science/article/abs/pii/S1746809420303116
@@ -25,7 +29,7 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
   
 - Praewphan Tocharoenkul
   1. Paper - https://ieeexplore.ieee.org/document/5952111?fbclid=IwAR0wHq2DYeYiS0zyvJPbO3yEjzBai7LGSrXiyEr8IGuSjRXdnkUE9C9qbC0
-  2. Paper - 
+  2. Paper - https://www.frontiersin.org/articles/10.3389/fncom.2017.00103/full?fbclid=IwAR0QL6QNLx65-geSEqc9FB3TT9hTndAVxWwdxfNKNWizypS6TfSuStjzL5Y
   
 - Suphawich Sungkhavorn
   1. Paper - https://www.sciencedirect.com/science/article/pii/S1319157816300714?fbclid=IwAR1p35mBrWXlexk__kit2liY04cOIPAlOAYqE3eOIVXPWx4MCV2-L0mGoPA

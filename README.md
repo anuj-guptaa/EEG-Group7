@@ -12,7 +12,7 @@ Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/pro
 ## Progress - October 31, 2021
 - Dataset has been chosen
 - Group members have read at least 2 papers (Prasant Kumar Pattnaik, Jay Sarraf, Brain Computer Interface issues on hand movement + 2 more papers each)
-- Chosen dataset has been explored and coverted from .mat to .csv format by Nutapol
+- Chosen dataset has been explored by all members and coverted from .mat to .csv format by Nutapol
 ## NEXT STEPS:
 Perform preprocessing - mainly with respect to artefact removal and fourier transform into time domain. (Eye was closed)
 ## Literature Review:

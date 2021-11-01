@@ -20,7 +20,7 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
 
 ### Additional background reading done:
 - Anuj Gupta 
-  1. Paper - https://www.frontiersin.org/articles/10.3389/fnins.2021.655599/full
+  1. Paper - Performance Analysis of Left/Right Hand MovementClassification from EEG Signal by Intelligent Algorithms
   2. Paper - https://core.ac.uk/download/pdf/53189287.pdf
 
 - Nutapol Thungpao

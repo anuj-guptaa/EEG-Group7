@@ -9,7 +9,7 @@ Praewphan Tocharoenkul - 122497
 Suphawich Sungkhavorn - 122564
 ## Preliminary Dataset Chosen:
 Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
-## Progress - October 31, 2021
+## Progress - November 7, 2021
 - Dataset has been converted into frequency-domain with all channels seperated
 - Power line at 50 Hz has been removed
 ## Progress - October 31, 2021

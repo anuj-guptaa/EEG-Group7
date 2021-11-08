@@ -12,6 +12,7 @@ Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/pro
 ## Progress - November 7, 2021
 - Dataset has been converted into frequency-domain with all channels seperated
 - Power line at 50 Hz has been removed
+- Bandpass filter (Unsure which frequency range to use yet)
 ## Progress - October 31, 2021
 - Dataset has been chosen
 - Group members have read at least 2 papers (Prasant Kumar Pattnaik, Jay Sarraf, Brain Computer Interface issues on hand movement + 2 more papers each)

@@ -11,7 +11,7 @@ Suphawich Sungkhavorn - 122564
 Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
 ## Progress - November 14, 2021
 - Training method has been attempted on different (but similar dataset) by Nutapol
-- ## NEXT STEPS:
+## NEXT STEPS:
 Complete training and achieve good accuracy.
 ## Progress - November 7, 2021
 - Dataset has been converted into frequency-domain with all channels seperated

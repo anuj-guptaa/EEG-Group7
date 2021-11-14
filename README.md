@@ -41,4 +41,4 @@ Research done on same dataset - https://www.sciencedirect.com/science/article/pi
   
 - Suphawich Sungkhavorn
   1. Paper - https://www.sciencedirect.com/science/article/pii/S1319157816300714?fbclid=IwAR1p35mBrWXlexk__kit2liY04cOIPAlOAYqE3eOIVXPWx4MCV2-L0mGoPA
-  2. Paper - 
+  2. Paper - https://www.researchgate.net/publication/313643430_Motor_Imagery_Classification_Based_on_Deep_Convolutional_Neural_Network_and_Its_Application_in_Exoskeleton_Controlled_by_EEG?fbclid=IwAR3ZinlGjfp496J2rNCRab4poDC1uSatbt_WUxecn-v_y3J_6Je1p7r1rNg

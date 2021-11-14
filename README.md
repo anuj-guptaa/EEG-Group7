@@ -10,7 +10,7 @@ Suphawich Sungkhavorn - 122564
 ## Preliminary Dataset Chosen:
 Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
 ## Progress - November 14, 2021
-- Training method has been attempted on different (but similar dataset) by Nutapol
+- Training method has been attempted on different (but similar dataset) by Nutapol https://github.com/nutapol97/Python-for-DS-AI_Nutapol_T./blob/main/physionet.ipynb?fbclid=IwAR3uxY8hj-Bpq09_LuVWFcwDkHt-QXDc_QOVN-hIlDJ_0cXXl0NnaOHSRXc
 ## NEXT STEPS:
 Complete training and achieve good accuracy.
 ## Progress - November 7, 2021

@@ -11,10 +11,10 @@ Suphawich Sungkhavorn - 122564
 Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0/
 ## Progress - November 21, 2021
 Individual models will be attempted by each group member:
-- Anuj: Bi-Directional LSTM
-- Nutapol: CNN with Spectogram
-- Praewphan: LSTM with attention
-- Suphawich: Conv1D/Conv2D
+- Anuj: Bi-Directional LSTM ('anuj' folder)
+- Nutapol: CNN with Spectogram ('')
+- Praewphan: LSTM with attention ('LSTM+ATTENTION' folder)
+- Suphawich: Conv1D/Conv2D ('suphawich' folder)
 ## Progress - November 14, 2021
 - Training method has been attempted on different (but similar dataset) by Nutapol https://github.com/nutapol97/Python-for-DS-AI_Nutapol_T./blob/main/physionet.ipynb?fbclid=IwAR3uxY8hj-Bpq09_LuVWFcwDkHt-QXDc_QOVN-hIlDJ_0cXXl0NnaOHSRXc
 ## NEXT STEPS:

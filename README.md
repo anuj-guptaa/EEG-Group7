@@ -12,7 +12,7 @@ Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0
 ## Progress - November 21, 2021
 Individual models will be attempted by each group member:
 - Anuj: Bi-Directional LSTM ('anuj' folder)
-- Nutapol: CNN with Spectogram ('')
+- Nutapol: CNN with ICA ('')
 - Praewphan: LSTM with attention ('LSTM+ATTENTION' folder)
 - Suphawich: Conv1D/Conv2D ('suphawich' folder)
 ## Progress - November 14, 2021

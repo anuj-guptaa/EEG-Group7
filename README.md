@@ -7,7 +7,7 @@ Nutapol Thungpao - 122148
 Praewphan Tocharoenkul - 122497
 
 Suphawich Sungkhavorn - 122564
-## Preliminary Dataset Chosen:
+## Dataset Chosen:
 Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0/
 ## Progress - November 21, 2021
 Individual models will be attempted by each group member:

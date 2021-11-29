@@ -9,8 +9,8 @@ Praewphan Tocharoenkul - 122497
 Suphawich Sungkhavorn - 122564
 ## Dataset Chosen:
 Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0/
-## Progress - November 21, 2021
-Individual models will be attempted by each group member:
+## Final Progress - November 21, 2021
+Individual models attempted by each group member:
 - Anuj: Bi-Directional LSTM ('anuj' folder)
 - Nutapol: CNN with ICA ('conv2d_ica_NUTAPOL')
 - Praewphan: LSTM with attention ('Praewphan' folder)

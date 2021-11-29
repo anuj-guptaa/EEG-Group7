@@ -13,7 +13,7 @@ Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0
 Individual models will be attempted by each group member:
 - Anuj: Bi-Directional LSTM ('anuj' folder)
 - Nutapol: CNN with ICA ('conv2d_ica_NUTAPOL')
-- Praewphan: LSTM with attention ('LSTM+ATTENTION' folder)
+- Praewphan: LSTM with attention ('Praewphan' folder)
 - Suphawich: Conv1D/Conv2D ('suphawich' folder)
 ## Progress - November 14, 2021
 - Training method has been attempted on different (but similar dataset) by Nutapol https://github.com/nutapol97/Python-for-DS-AI_Nutapol_T./blob/main/physionet.ipynb?fbclid=IwAR3uxY8hj-Bpq09_LuVWFcwDkHt-QXDc_QOVN-hIlDJ_0cXXl0NnaOHSRXc

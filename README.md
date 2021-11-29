@@ -10,6 +10,7 @@ Suphawich Sungkhavorn - 122564
 ## Dataset Chosen:
 Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0/
 ## Final Progress - November 21, 2021
+### Please navigate to the group member's respective folder to see their model
 Individual models attempted by each group member:
 - Anuj: Bi-Directional LSTM ('anuj' folder)
 - Nutapol: CNN with ICA ('conv2d_ica_NUTAPOL')

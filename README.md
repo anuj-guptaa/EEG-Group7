@@ -7,14 +7,14 @@ Nutapol Thungpao - 122148
 Praewphan Tocharoenkul - 122497
 
 Suphawich Sungkhavorn - 122564
-## Preliminary Dataset Chosen:
-Left/Right Hand 1D/2D movement 1-Dimensional - https://sites.google.com/site/projectbci/
+## Dataset Chosen:
+Left/Right Hand Fist Movement - https://www.physionet.org/content/eegmmidb/1.0.0/
 ## Progress - November 21, 2021
 Individual models will be attempted by each group member:
-- Anuj: Bi-Directional LSTM
-- Nutapol: CNN with Spectogram
-- Praewphan: LSTM with attention
-- Suphawich: Conv1D/Conv2D
+- Anuj: Bi-Directional LSTM ('anuj' folder)
+- Nutapol: CNN with ICA ('conv2d_ica_NUTAPOL')
+- Praewphan: LSTM with attention ('LSTM+ATTENTION' folder)
+- Suphawich: Conv1D/Conv2D ('suphawich' folder)
 ## Progress - November 14, 2021
 - Training method has been attempted on different (but similar dataset) by Nutapol https://github.com/nutapol97/Python-for-DS-AI_Nutapol_T./blob/main/physionet.ipynb?fbclid=IwAR3uxY8hj-Bpq09_LuVWFcwDkHt-QXDc_QOVN-hIlDJ_0cXXl0NnaOHSRXc
 ## NEXT STEPS:
@@ -30,7 +30,7 @@ Complete training and achieve good accuracy.
 ## NEXT STEPS:
 Perform preprocessing - mainly with respect to artefact removal and fourier transform into time domain. (Eye was closed)
 ## Literature Review:
-Research done on same dataset - https://www.sciencedirect.com/science/article/pii/S1319157816300714
+Research done on same dataset - https://www.frontiersin.org/articles/10.3389/fnhum.2020.00338/full
 
 ### Additional background reading done:
 - Anuj Gupta 
